@@ -17,7 +17,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.kt.ollehMapSDKDemo2</string>
+                                <string>com.kt.ollehMapSDKDemo</string>
                                 <key>bundle-version</key>
                                 <string>1.0</string>
                                 <key>kind</key>
