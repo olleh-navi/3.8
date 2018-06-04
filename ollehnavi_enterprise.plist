@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://14.63.248.13/ollehnavi_app/ollehnavi_enterprise.ipa</string>
+                    <string>http://14.63.248.13/ollehnavi_app/current/ollehnavi_enterprise.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.hubilon.enterprise.OllehNavi</string>
+                <string>com.kt.iRozeNavi</string>
                 <key>bundle-version</key>
-                <string>03.08.00</string>
+                <string>0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>올레내비</string>
+                <string>원내비(알파)</string>
             </dict>
         </dict>
     </array>
